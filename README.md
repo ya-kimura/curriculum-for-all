@@ -5,20 +5,15 @@ npm install
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [NodeJs](https://nodejs.org/en/docs/) - 
+* [Express](https://expressjs.com/pt-br/starter/installing.html) - The web framework used
+* [NPM](https://docs.npmjs.com/) - Dependency Management
+
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/yassuikimura/project-tdd-js/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/yassuikimura/curriculum-for-all/contributors) who participated in this project.
 
 ## License
 
